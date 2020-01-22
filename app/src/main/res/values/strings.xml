@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Sample</string>
+    <string name="welcome_text">Welcome to Compose Samples</string>
+    <string name="listView">ListView</string>
+</resources>
